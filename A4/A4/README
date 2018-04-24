@@ -1,0 +1,9 @@
+To Run:
+
+make
+
+a. How long to sleep before terminating
+b. Number of producer threads
+c. Number of consumer threads
+
+./a.out a b c
